@@ -1,0 +1,9 @@
+Package: tk.ethanrdoesmc.SwitchSlide
+Name: SwitchSlide
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: EthanRDoesMC
+Author: EthanRDoesMC
+Section: Tweaks
